@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/masterUNG/Desktop/Android-GoogleDirectionLibrary-master/googleDirectionLibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+        "outputFile": "/Users/masterung/MyWorkSpace/ConsultProject/Android-GoogleDirectionLibrary/googleDirectionLibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 310
                 },
                 "from": {
-                    "file": "/Users/masterUNG/Desktop/Android-GoogleDirectionLibrary-master/googleDirectionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-pa/values.xml",
+                    "file": "/Users/masterung/MyWorkSpace/ConsultProject/Android-GoogleDirectionLibrary/googleDirectionLibrary/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-pa/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
